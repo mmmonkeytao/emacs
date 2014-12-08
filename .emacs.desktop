@@ -1,0 +1,30 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Mon Dec  8 21:42:02 2014
+;; Desktop file format version 206
+;; Emacs version 24.4.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (21638 3354 925040 0) (desktop . "206") "taoyeandy@220.208.eduroam.dynamic.rbg.tum.de" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 11) (right-fringe . 13) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (display . "220.208.eduroam.dynamic.rbg.tum.de") (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (visibility) (tty-type . "xterm-color") (tty . "/dev/tty") (modeline . t) (unsplittable) (frameset--id . "2351-5B06-0963-8DF0") (frameset--mini t) (minibuffer . t) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 43) (width . 156) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1287) (pixel-height . 714) (total-width . 160) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "cpp" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 12) (right-fringe . 12) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (environment) (frameset--id . "AA25-16FB-4139-9887") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "220.208.eduroam.dynamic.rbg.tum.de") (explicit-name) (tool-bar-position . top) (height . 43) (width . 207) (left . 32) (top . 36)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1695) (pixel-height . 714) (total-width . 211) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "cpp" (selected) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("rangeimage" "ext" "extra" "vtk" "iedit" "ls" "i			iidb" "advice" "ncl" "multi-ter" "multi-" "cl" "multi-t" "cmake" "zenburn" "doxymacs"))
+(setq regexp-search-ring nil)
+(setq register-alist nil)
+(setq file-name-history '("~/.emacs.d/init.el" "~/.emacs.d/config/face.el" "~/.emacs.d/config/../init.el" "~/.emacs.d/config/face.el" "~/emacs_backup/.emacs" "~/.emacs.d/init.el" "~/.emacs.d/config/face.el" "~/.emacs.d/config/custom.el" "~/.emacs.d/config/face.el" "~/.emacs.d/init.el" "~/workspace/thesis/thesis2/osc_learning/test_c/omp_test/omp_test/cpp" "~/workspace/thesis/thesis_code/online_clustering/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/../../CMake" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../../test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_segment.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud.cpp" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_vis_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../../test/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud_segment.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/test_c/omp_test/omp_test/cpp"
+  "cpp"
+  'fundamental-mode
+  '(autopair-mode linum-mode)
+  1
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
