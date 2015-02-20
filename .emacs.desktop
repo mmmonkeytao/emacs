@@ -2,29 +2,337 @@
 ;; --------------------------------------------------------------------------
 ;; Desktop File for Emacs
 ;; --------------------------------------------------------------------------
-;; Created Mon Dec  8 21:42:02 2014
+;; Created Sat Feb 21 00:17:17 2015
 ;; Desktop file format version 206
 ;; Emacs version 24.4.1
 
 ;; Global section:
-(setq desktop-saved-frameset [frameset 1 (21638 3354 925040 0) (desktop . "206") "taoyeandy@220.208.eduroam.dynamic.rbg.tum.de" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 11) (right-fringe . 13) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (display . "220.208.eduroam.dynamic.rbg.tum.de") (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (visibility) (tty-type . "xterm-color") (tty . "/dev/tty") (modeline . t) (unsplittable) (frameset--id . "2351-5B06-0963-8DF0") (frameset--mini t) (minibuffer . t) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 43) (width . 156) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 2) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 16) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1287) (pixel-height . 714) (total-width . 160) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "cpp" (selected) (hscroll . 0) (fringes 0 0 nil) (margins nil) (scroll-bars 0 0 nil nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))) (((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 12) (right-fringe . 12) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (environment) (frameset--id . "AA25-16FB-4139-9887") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (visibility . t) (display . "220.208.eduroam.dynamic.rbg.tum.de") (explicit-name) (tool-bar-position . top) (height . 43) (width . 207) (left . 32) (top . 36)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1695) (pixel-height . 714) (total-width . 211) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "cpp" (selected) (hscroll . 0) (fringes 12 12 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
+(setq desktop-saved-frameset [frameset 1 (21735 49277 41011 0) (desktop . "206") "taoyeandy@Andy-Tao.local" nil nil ((((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 11) (right-fringe . 13) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (display . "Andy-Tao.local") (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (visibility) (tty-type . "xterm-color") (tty . "/dev/tty") (modeline . t) (unsplittable) (frameset--id . "2351-5B06-0963-8DF0") (frameset--mini t) (minibuffer . t) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (height . 43) (width . 156) (left . 0) (top . 0)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1287) (pixel-height . 714) (total-width . 160) (total-height . 42) (normal-height . 1.0) (normal-width . 1.0) (buffer "*scratch*" (selected) (hscroll . 0) (fringes 11 13 nil) (margins nil) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 192) (start . 1))) (((font-backend mac-ct ns) (fontsize . 0) (font . "-*-Monaco-normal-normal-normal-*-13-*-*-*-m-0-iso10646-1") (border-width . 0) (internal-border-width . 2) (vertical-scroll-bars . right) (foreground-color . "#DCDCCC") (background-color . "#3F3F3F") (line-spacing) (left-fringe . 12) (right-fringe . 12) (menu-bar-lines . 0) (tool-bar-lines . 0) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 15) (alpha) (fullscreen) (horizontal-scroll-bars . t) (display-type . color) (background-mode . dark) (cursor-color . "#FFFFEF") (environment) (display . "Andy-Tao.local") (frameset--id . "AA25-16FB-4139-9887") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (right-divider-width . 0) (bottom-divider-width . 0) (icon-name) (explicit-name) (tool-bar-position . top) (visibility . t) (height . 40) (width . 139) (left . 302) (top . 22)) ((min-height . 4) (min-width . 10) (min-height-ignore . 2) (min-width-ignore . 7) (min-height-safe . 1) (min-width-safe . 2) (min-pixel-height . 68) (min-pixel-width . 80) (min-pixel-height-ignore . 34) (min-pixel-width-ignore . 56) (min-pixel-height-safe . 17) (min-pixel-width-safe . 16)) leaf (pixel-width . 1151) (pixel-height . 663) (total-width . 143) (total-height . 39) (normal-height . 1.0) (normal-width . 1.0) (buffer "Hquery_accuracy.cpp" (selected . t) (hscroll . 0) (fringes 12 12 nil) (margins 2) (scroll-bars 15 2 t nil) (vscroll . 0) (dedicated) (point . 1) (start . 1))))])
 (setq desktop-missing-file-warning nil)
 (setq tags-file-name nil)
 (setq tags-table-list nil)
-(setq search-ring '("rangeimage" "ext" "extra" "vtk" "iedit" "ls" "i			iidb" "advice" "ncl" "multi-ter" "multi-" "cl" "multi-t" "cmake" "zenburn" "doxymacs"))
+(setq search-ring '("yasnippet" "auto com" "cout" "unsign" "unsi" "uns" "unsigned" "current_center" "current" "set" "5" "OK" "pow" "p" "dat" "data"))
 (setq regexp-search-ring nil)
 (setq register-alist nil)
-(setq file-name-history '("~/.emacs.d/init.el" "~/.emacs.d/config/face.el" "~/.emacs.d/config/../init.el" "~/.emacs.d/config/face.el" "~/emacs_backup/.emacs" "~/.emacs.d/init.el" "~/.emacs.d/config/face.el" "~/.emacs.d/config/custom.el" "~/.emacs.d/config/face.el" "~/.emacs.d/init.el" "~/workspace/thesis/thesis2/osc_learning/test_c/omp_test/omp_test/cpp" "~/workspace/thesis/thesis_code/online_clustering/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/../../CMake" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../../test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_segment.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud.cpp" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_vis_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/test/pcloud/pcloud_2rgbd_test.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../../test/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/CMakeLists.txt" "~/workspace/thesis/thesis_code/online_clustering/pcloud/include/../src/pcloud_segment.cpp" "~/workspace/thesis/thesis_code/online_clustering/pcloud/src/../CMakeLists.txt"))
+(setq file-name-history '("~/.emacs.d/config/custom.el" "~/.emacs.d/init.el" "~/workspace/thesis/thesis2/osc_learning/code/test/src/pcl_viewer.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/convert_pcd2_dni.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/pcl_visualizer.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/pcl_viewer.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/convert2DepNorm.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/similarity_analysis.cpp" "~/workspace/thesis/thesis2/osc_learning/code/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/test/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/test/src/convert2DepNorm.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/pcd2hmp.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/hmp_rgbdeval_full.cpp" "~/workspace/thesis/thesis2/osc_learning/code/test/src/hmp_test.cpp" "~/workspace/thesis/thesis2/osc_learning/code/hmp/src/computeHMP.cpp" "~/workspace/thesis/thesis2/osc_learning/code/hmp/include/hmp.h" "~/workspace/thesis/thesis2/osc_learning/code/test/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/engine/include/proc.h" "~/workspace/thesis/thesis2/osc_learning/code/engine/include/io.h" "~/workspace/thesis/thesis2/osc_learning/code/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/test/src/convert2DepNorm.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud_segment.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud_RangeImage.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/include/pcloud.h" "~/workspace/thesis/thesis2/osc_learning/code/pcl/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/test/CMakeLists.txt" "~/workspace/thesis/thesis2/osc_learning/code/test/src/convert_pcd2_dni.cpp" "~/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud_RangeImage.cpp"))
 
 ;; Buffer section -- buffers listed in same order as in buffer list:
 (desktop-create-buffer 206
-  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/test_c/omp_test/omp_test/cpp"
-  "cpp"
-  'fundamental-mode
-  '(autopair-mode linum-mode)
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/Hquery_accuracy.cpp"
+  "Hquery_accuracy.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1
+  '(410 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/guided_osc_test.cpp"
+  "guided_osc_test.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1153
+  '(1308 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(autopair-mode auto-complete-mode yas-minor-mode linum-mode)
+  372
+  '(372 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . prefer-utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/pcl_viewer.cpp"
+  "pcl_viewer.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1187
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/convert_pcd2_dni.cpp"
+  "convert_pcd2_dni.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  2196
+  '(2238 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/normal_osc_insert_test.cpp"
+  "normal_osc_insert_test.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1605
+  '(1559 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/pcd2hmp.cpp"
+  "pcd2hmp.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1470
+  '(1787 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/similarity_analysis.cpp"
+  "similarity_analysis.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  5093
+  '(5448 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/convert2DepNorm.cpp"
+  "convert2DepNorm.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  2258
+  '(2375 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/include/Galaxy.h"
+  "Galaxy.h"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  2317
+  '(3350 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/Galaxy.cpp"
+  "Galaxy.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  466
+  '(1691 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/hmp/include/hmp.h"
+  "hmp.h"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1119
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/hmp/src/computeHMP.cpp"
+  "computeHMP.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1396
+  '(1364 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/hmp_rgbdeval_full.cpp"
+  "hmp_rgbdeval_full.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  3606
+  '(1 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/online_clustering/pcloud/src/pcloud.cpp"
+  "pcloud.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/pcl/src/pcloud_RangeImage.cpp"
+  "pcloud_RangeImage.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  6715
+  '(8865 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/pcl/CMakeLists.txt"
+  "CMakeLists.txt"
+  'cmake-mode
+  '(autopair-mode yas-minor-mode linum-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/3dparty/kitti-pcl/src/kittitrackletextract.cpp"
+  "kittitrackletextract.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  352
+  '(434 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/3dparty/kitti-pcl/src/kitti2pcd.cpp"
+  "kitti2pcd.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  728
+  '(1952 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/guided_osc_insert.cpp"
+  "guided_osc_insert.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1215
+  '(2520 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/include/Planet.h"
+  "Planet.h"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1790
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/oscUpdate.cpp"
+  "oscUpdate.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  3405
+  '(3098 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/normal_osc_insert.cpp"
+  "normal_osc_insert.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1014
+  '(979 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/oscInsert.cpp"
+  "oscInsert.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  2109
+  '(2364 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/CMakeLists.txt"
+  "CMakeLists.txt"
+  'cmake-mode
+  '(autopair-mode yas-minor-mode linum-mode)
+  1
+  '(295 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/test/src/loaded_insert_noSim_test.cpp"
+  "loaded_insert_noSim_test.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
   1
   '(1 nil)
   nil
   nil
   '((buffer-file-coding-system . utf-8-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/computeSimilarity.cpp"
+  "computeSimilarity.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  806
+  '(875 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/clustering/src/Vertex.cpp"
+  "Vertex.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  623
+  '(397 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
+
+(desktop-create-buffer 206
+  "/Users/taoyeandy/workspace/thesis/thesis2/osc_learning/code/galaxy/src/Planet.cpp"
+  "Planet.cpp"
+  'c++-mode
+  '(abbrev-mode autopair-mode doxymacs-mode auto-complete-mode yas-minor-mode linum-mode)
+  1091
+  '(531 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix)))
 
